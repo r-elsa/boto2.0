@@ -7,7 +7,7 @@ azure-storage-blob==2.1.0
 azure-storage-common==2.1.0
 backcall==0.1.0
 beautifulsoup4==4.8.2
-bleach==3.1.0
+bleach==3.3.0
 boto3==1.11.9
 botocore==1.14.9
 bottle==0.12.18
